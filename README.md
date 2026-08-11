@@ -1,4 +1,4 @@
-# AI Chatbot Backend for businesses
+# AI Chatbot Backend
 
 Custom AI-powered chatbot backend that handles customer inquiries 24/7
 for businesses. Built with Flask, integrated with AI
