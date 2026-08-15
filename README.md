@@ -84,11 +84,6 @@ users to verify critical information directly with your business.
 This chatbot is designed to assist with common inquiries, not
 to replace professional advice.
 
-## Contact
-
-For custom chatbot integrations:
-- **Fiverr:** [fiverr.com/s/GzVZVp2](https://www.fiverr.com/s/GzVZVp2)
-
 *This is a demonstration version. Production deployments are 
 customized per client with business-specific system prompts, 
 trigger words, safety layers, and integration.*
