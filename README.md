@@ -60,7 +60,7 @@ no code editing required. Customizeable according to client's website theme.
 
 ## Live Demo
 
-- Dental clinic demo: [BrightSmile Dental](https://tnoshin.github.io/brightsmile-dental/)
+- Dental clinic demo: [BrightSmile Dental](https://brightsmile-dental-demo.onrender.com/)
 
 ## Why Add a Chatbot?
 
